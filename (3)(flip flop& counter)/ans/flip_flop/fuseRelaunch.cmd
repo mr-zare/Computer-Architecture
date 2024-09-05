@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/clases/ca_lib/9azar/TFF_tb_isim_beh.exe" -prj "F:/clases/ca_lib/9azar/TFF_tb_beh.prj" "work.TFF_tb" 

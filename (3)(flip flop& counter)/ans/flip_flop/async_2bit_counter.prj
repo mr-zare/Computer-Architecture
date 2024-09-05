@@ -1,0 +1,2 @@
+vhdl work "dff.vhd"
+vhdl work "async_2bit_counter.vhd"

@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: F:/clases/ca_lib/7_dey_activeHDL/detector_1101/detector/src/moore_1011_tb.vhd" 
+MESSAGE "Compile Entity "moore_tb"" 
+MESSAGE "Compile Architecture "behavior" of Entity "moore_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

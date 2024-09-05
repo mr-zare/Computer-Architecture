@@ -1,0 +1,11 @@
+17
+~E 1 "../src/detector_0110.vhd" 3 mealy_detector
+~A 1 "../src/detector_0110.vhd" 7 Behavioral
+~E 1 "../src/moore_0110.vhd" 3 moore_1011
+~A 1 "../src/moore_0110.vhd" 6 Behavioral
+~E 1 "../src/moore_0110.vhd" 3 moore_machine
+~A 1 "../src/moore_0110.vhd" 6 Behavioral
+~E 1 "../src/tb_moore_0110.vhd" 3 moore_tb
+~A 1 "../src/moore_1011_tb.vhd" 6 behavior
+~E 1 "../src/tb_mealy.vhd" 4 tb_moore_mealy
+~A 1 "../src/tb_mealy.vhd" 7 behavior
