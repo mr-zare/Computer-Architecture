@@ -1,0 +1,16 @@
+[Version]
+Version=12.0
+[Designs]
+detector=.\detector\detector.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+detector=1
+tb_mealy=0
+moore_1011=0
+[Settings]
+Active=detector

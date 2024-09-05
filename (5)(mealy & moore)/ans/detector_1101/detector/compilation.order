@@ -1,0 +1,6 @@
+.\src\detec.vhd
+.\src\detector_0110.vhd
+.\src\tb_mealy.vhd
+.\src\moore_0110.vhd
+.\src\tb_moore_0110.vhd
+.\src\moore_1011_tb.vhd

@@ -1,0 +1,8 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+detector=1
+Built-in symbols=0
+[COMPILESTATUS|.\src\detec.vhd]
+FileTimeLow=31006786
+Status=Modified
+[CACHEDOC|Aldec.Project.Generic.7|.\detector\detector.adf|]
+Path=/moore_machine

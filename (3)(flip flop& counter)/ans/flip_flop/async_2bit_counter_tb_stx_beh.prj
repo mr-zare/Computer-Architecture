@@ -1,0 +1,3 @@
+vhdl isim_temp "dff.vhd"
+vhdl isim_temp "async_2bit_counter.vhd"
+vhdl isim_temp "async_2bit_counter_tb.vhd"
